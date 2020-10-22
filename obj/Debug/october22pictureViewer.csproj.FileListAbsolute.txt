@@ -1,0 +1,10 @@
+C:\Users\saian\source\repos\october22form1\october22form1\bin\Debug\october22form1.exe.config
+C:\Users\saian\source\repos\october22form1\october22form1\bin\Debug\october22form1.exe
+C:\Users\saian\source\repos\october22form1\october22form1\bin\Debug\october22form1.pdb
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22pictureViewer.csprojAssemblyReference.cache
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22form1.Form1.resources
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22form1.Properties.Resources.resources
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22pictureViewer.csproj.GenerateResource.cache
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22pictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22form1.exe
+C:\Users\saian\source\repos\october22form1\october22form1\obj\Debug\october22form1.pdb
